@@ -1,0 +1,6 @@
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\bin\Debug\TP_Grafos.exe.config
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\bin\Debug\TP_Grafos.exe
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\bin\Debug\TP_Grafos.pdb
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\obj\Debug\TP_Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\obj\Debug\TP_Grafos.exe
+C:\Users\Dioni\OneDrive\PUC 2017-02\A GRAFOS\TP_Grafos\TP_Grafos\obj\Debug\TP_Grafos.pdb
